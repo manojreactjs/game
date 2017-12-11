@@ -12,6 +12,8 @@ class App extends Component {
           <img src={logo} className="App-logo" alt="logo" />
           <h2>Welcome to this great world nothing to make changes</h2>
           <p>Join the slack community to stay in touch</p>
+           <p>It is very difficult to work on this requirement</p>
+
           <a href="https://happy-learning.herokuapp.com/ " target="_blank"><img alt="Join Slack" height="40" width="139" src="http://i.imgur.com/0Lne5Vr.png"/></a>
         </div>
         <Quiz />
