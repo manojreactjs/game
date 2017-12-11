@@ -10,7 +10,7 @@ class App extends Component {
         <div className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <img src={logo} className="App-logo" alt="logo" />
-          <h2>Welcome to maths game</h2>
+          <h2>Welcome to mr.manoj</h2>
           <p>Join the slack community to stay in touch</p>
           <a href="https://happy-learning.herokuapp.com/ " target="_blank"><img alt="Join Slack" height="40" width="139" src="http://i.imgur.com/0Lne5Vr.png"/></a>
         </div>
