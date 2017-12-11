@@ -14,7 +14,7 @@ class App extends Component {
 
            <h3>This is very good requirement</h3>
            <h5>Nice to learn this subject</h5>
-=======
+
            <h3>Requirement changed</h3>
 
           <p>Join the slack community to stay in touch</p>
