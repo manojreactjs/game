@@ -21,7 +21,7 @@ class App extends Component {
 
           <h2>Welcome to this great world nothing to make changes</h2>
 
-          <h3>let bring changes in testing</h3>
+          <h3>let bring changes in testing in eclipse</h3>
 
           <p>Join the slack community to stay in touch</p>
            <p>It is very difficult to work on this requirement</p>
