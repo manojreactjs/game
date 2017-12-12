@@ -17,11 +17,9 @@ class App extends Component {
            <h5>Nice to learn this subject</h5>
 
            <h3>Requirement changed</h3>
-
-
-          <h2>Welcome to this great world nothing to make changes</h2>
-
-          <h3>let bring changes in testing in eclipse</h3>
+      <h2>Welcome to this great world nothing to make changes</h2>
+      <h5>Dont worry about the changes you made<h5>
+<h3>let bring changes in testing in eclipse</h3>
 
           <p>Join the slack community to stay in touch</p>
            <p>It is very difficult to work on this requirement</p>
