@@ -13,7 +13,7 @@ class App extends Component {
  <h2>Welcome to maths game</h2>
       <h3>Hey this game is very interesting</h3>
       <h3>This is very good requirement</h3>
-           <h5>Nice to learn this subject</h5>
+           <h5>Nice to learn this subject even after</h5>
       <h3>Requirement changed</h3>
       <h5>Hey this is manoj</h5>
       <h2>Welcome to this great world nothing to make changes</h2>
