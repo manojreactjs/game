@@ -13,6 +13,10 @@ class App extends Component {
        <h2>Welcome to maths game</h2>
        <h3>Hey this game is very interesting</h3>
        <h3>This is very good requirement</h3>
+       <h2>Welcome to maths game</h2>
+      <h3>Hey this game is very interesting</h3>
+      <h3>This is very good requirement</h3>
+      <p>I Am adding this tag as admin</p>
       <h5>Nice to learn this subject even after</h5>
       <h3>Requirement changed</h3>
       <h5>Hey this is manoj</h5>
